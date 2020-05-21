@@ -1,5 +1,5 @@
 <?php
 require_once'cachorro.php';
-$bob = new cachorro("Pudle");
+$bob = new cachorro("Pudlee");
 $bob->latir();
 ?>
